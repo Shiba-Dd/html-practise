@@ -1,0 +1,18 @@
+li a:hover {
+    color: rgb(14, 226, 31);
+}
+a + ul {
+    color: rgb(214, 218, 11);
+}
+div#container > ul{
+    border: 1px solid rgb(255, 0, 0);
+    background-color: rgba(63, 59, 59, 0.527);
+    color: white;
+}
+
+
+
+[title] {
+    color: rgb(89, 136, 189);
+
+}

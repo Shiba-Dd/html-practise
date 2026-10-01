@@ -1,0 +1,33 @@
+
+
+
+.elem   {
+    color: red;
+    font-size: 30px;
+}
+
+#elem {
+    color: blue;
+    font-size: 20px;
+}
+/* Selectors */
+
+/* Селектор {
+Властивість значення 
+} */
+* { /* звератється до всіх елементів */
+    margin: 0;
+}
+body {
+    background-color: rgba(63, 59, 59, 0.527);
+    color: white;
+    
+}
+.text {
+    color: rgb(39, 235, 39);
+    font-size: 30px;
+}
+#text {
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+}

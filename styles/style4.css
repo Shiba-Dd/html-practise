@@ -1,0 +1,33 @@
+p:not(.t){
+    color: red;
+}
+p:nth-child(3){
+    color: blue;
+}
+P:nth-child(even){
+    color: green;
+}
+.con{
+    
+    color: yellow;
+    background-image: url(/img/123.png);
+    background-size: cover;
+    background-repeat: repeat-y;
+}
+.thj {
+    border: 2px solid;
+    border: dashed;
+    border-radius: 15px;
+    background: #833AB4;
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+.ab {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 25px 50px 25px ;
+    border-color: transparent transparent black transparent;
+}
+
+
+
